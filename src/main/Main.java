@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		//Parte 1
-		//System.out.println(suma(1, 2, 3));
+		System.out.println(suma(1, 2, 3));
 
 		//Parte 2
 		Coche c1 = new Coche(2);
